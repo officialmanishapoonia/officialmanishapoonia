@@ -16,7 +16,13 @@ Welcome to my corner of Github
 - `Cloud`: Azure
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialmanishapoonia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialmanishapoonia&theme=tokyonight&show_icons=true&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialmanishapoonia&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)
+
+
+![My Views](https://komarev.com/ghpvc/?username=officialmanishapoonia&color=green&label=GithubExplorers)
+
+
 <!--
 **officialmanishapoonia/officialmanishapoonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
